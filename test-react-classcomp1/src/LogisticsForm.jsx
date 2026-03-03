@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 
-class LogisticsForm extends Component {
+class LogisticsForm extends Component 
+{
   constructor(props) {
     super(props);
 
